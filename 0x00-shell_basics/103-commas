@@ -1,2 +1,2 @@
-O string SCHOOL
-!:mine School
+#!/bin/bash
+ls -map|sort -d
